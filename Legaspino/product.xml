@@ -1,0 +1,14 @@
+<data>
+    <product>
+        <id>1</id>
+        <name>Gaming Laptop</name>
+        <price>45000</price>
+        <description>High-performance laptop for gaming.</description>
+    </product>
+    <product>
+        <id>2</id>
+        <name>Wireless Mouse</name>
+        <price>1500</price>
+        <description>Ergonomic wireless mouse with RGB.</description>
+    </product>
+</data>

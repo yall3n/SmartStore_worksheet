@@ -1,0 +1,16 @@
+{
+    "cart": [
+        {
+            "id": "1",
+            "name": "Gaming Laptop",
+            "price": 45000,
+            "quantity": 1
+        },
+        {
+            "id": "2",
+            "name": "Wireless Mouse",
+            "price": 1500,
+            "quantity": 2
+        }
+    ]
+}
